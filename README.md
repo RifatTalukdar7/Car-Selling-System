@@ -1,7 +1,4 @@
 # Car-Selling-System
-Here’s a **short discussion** you can use in your GitHub README or project documentation for your **Car Selling System (Java, Console-based)**:
-
----
 
 ### **Project Overview**
 
